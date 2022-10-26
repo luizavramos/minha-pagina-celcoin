@@ -1,0 +1,17 @@
+.sobre-mim{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top:10vh;
+    
+}
+
+.imagem img{
+    width: 40vh;
+    height: 40vh;
+    border-radius: 50%;
+}
+
+.texto{
+    font-family: 'Courier New';
+}
